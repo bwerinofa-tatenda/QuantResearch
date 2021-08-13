@@ -10,5 +10,4 @@ the ones that usually randomly distribute around a mean of zero. Unfortunately, 
 returns.
 
 ## Stationarity
-Those few price series that are found to be `mean reverting` are called **stationary**. There are very few price series 
-existing on exchanges that are stationary. Fortunately, we can create our own 
+Those few price series that are found to be `mean reverting` are called **stationary**. There aren't too many price series existing on exchanges that are stationary. Fortunately, we can create our own.
