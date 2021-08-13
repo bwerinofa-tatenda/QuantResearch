@@ -3,7 +3,7 @@
 This repo will include some quantitative trading and investing research I've done.  
 Algorithmic trading strategies fall in to one of 2 broad categories:
 - **Trend following**
-- **Mean reverting strategies.**   
+- **Mean reverting strategies**.  
 In general mean reverting strategies tend to be more profitable than the trend following strategies, this may be due to the 
 fact that markets are only trending 20% of the time.  
 
