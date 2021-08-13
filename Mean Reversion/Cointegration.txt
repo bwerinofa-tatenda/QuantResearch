@@ -1,0 +1,22 @@
+We can proactively create a portfolio of individual price series so that the market value (or price)
+series of this portfolio is stationary. This is the notion of cointegration: If we can find a stationary
+linear combination of several nonstationary price series, then these price series are called cointegrated.
+
+The most common combination is that of two price series: We long one asset and simultaneously
+short another asset, with an appropriate allocation of capital to each asset. This is the familiar “pairs trading”
+strategy. But the concept of cointegration easily extends to three or more assets. 
+
+There are two common cointegration tests: the CADF(suitable only for a pair of price series) and the Johansen test
+(applicable to any number of series)
+
+It is possible to create a portfolio of individual price series so that the market value series of this port
+is stationary. This is cointegration: If we can find a stationary linear combination of several nonstationary price series,
+then these price series are called cointegrated.
+
+The most combination is of two price series: we long one asset and simultaneously short another asset, with an appropriate
+allocation of capital to each asset. This is whats known as pairs trading. But the concept of cointegration easily extends 
+three or more assets.
+
+The 2 common cointegration tests are the CADF(suitable only for a pair of price series) and the Johansen test(applicable to
+any number of series)
+

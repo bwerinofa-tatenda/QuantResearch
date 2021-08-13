@@ -1,0 +1,22 @@
+The pair selection process for ETFs is quite easy: we need to find ETFs that are exposed to common economic
+factors. Besides country ETFs, sector ETFs are another fertile ground for finding cointegrated instruments. 
+For example, the retail fund RTH cointegrates with the consumer staples fund XLP.
+
+Another favorite ETF pairing of mine is between a commodity ETF and an ETF of companies that produce that 
+commodity. The gold fund GLD versus the gold miners fund GDX is a good example. The rationale is that since 
+the main asset of a gold-mining company is gold, their values should cointegrate with gold spot prices.
+
+What has oil price got to do with the cointegration between gold price and gold miners’ share prices? A lot, 
+apparently. It turns out that when oil prices are expensive, it costs a lot more to mine gold, and therefore 
+the profits of gold miners are reduced, leading to the underperformance of their share prices relative to gold
+ spot prices (“The Wacky World of Gold,” 2011).
+To gather empirical support for this explanation, we can introduce the oil fund USO into the portfolio and see 
+if this triplet cointegrates over the entire period from 2006 to 2012. The Johansen test shows that they do,
+with a 99 percent probability that there exists one cointegrating relationship. Hence, instead of just trading GLD
+and GDX, we can trade this portfolio of triplets instead. Even if you find trading a triplet too cumbersome,
+you should at least have a rule in place to cease trading GLD versus GDX whenever oil price exceeds a certain threshold.
+
+When scientists fi rst come upon an unexplained phenomenon, they form a hunch about its cause, and then they find ways 
+to test this hunch empirically. We should adopt the same scientific process in approaching trading. When a trading
+strategy stops working, we should form a hypothesis of the reason, and then test empirically whether that hypothesis is 
+supported by data. The outcome of this process is often a modified strategy that regains profitability.
