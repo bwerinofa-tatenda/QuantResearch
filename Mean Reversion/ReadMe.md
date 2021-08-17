@@ -10,4 +10,9 @@ the ones that usually randomly distribute around a mean of zero. Unfortunately, 
 returns.
 
 ## Stationarity
-Those few price series that are found to be `mean reverting` are called **stationary**. There aren't too many price series existing on exchanges that are stationary. Fortunately, we can create our own.
+Those few price series that are found to be `mean reverting` are called **stationary**. There aren't too many price series existing on exchanges that are stationary. Fortunately, we can create our own. This can be done by combining two or more individual price series that are not mean reverting into a portfolio whose net market value(price) is mean reverting. These price series are said to be cointegrated and we can use the Cointegrated Augmented Dickey Fuller test, to test for cointegration. Because of the ability to artificially create stationary portfolios there are numerous opportunities for mean reversion strategies.
+
+### Mean Reversion and Stationarity
+Mean reversion and stationarity are two equivalent ways of looking at the same type of price series, but these two ways give rise to two diff erent statistical tests for such series.The mathematical description of a mean-reverting price series is that the change of the price series in the next period is proportional to the difference between the mean price and the current price. This gives rise to the ADF test, which tests whether we can reject the null hypothesis that the proportionality constant is zero.
+
+
